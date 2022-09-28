@@ -1,0 +1,1 @@
+This repo is for learning more about vizualizations with Plotly and Dash.  Part of it will be following the Udemy course: "Interactive Python Dashboards with Plotly and Dash".
